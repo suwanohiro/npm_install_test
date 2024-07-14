@@ -1,0 +1,27 @@
+{
+  "name": "npm_install_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suwanohiro/npm_install_test.git"
+  },
+  "keywords": [
+    "sqlite",
+    "database",
+    "nodejs"
+  ],
+  "author": "suwanohiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suwanohiro/npm_install_test/issues"
+  },
+  "homepage": "https://github.com/suwanohiro/npm_install_test#readme",
+  "dependencies": {
+    "sqlite": "^5.0.2"
+  }
+}
